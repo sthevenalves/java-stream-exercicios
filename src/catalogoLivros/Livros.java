@@ -1,7 +1,6 @@
-package livros;
+package catalogoLivros;
 
 import java.time.LocalDate;
-import java.util.List;
 
 public class Livros {
     private String autor;
