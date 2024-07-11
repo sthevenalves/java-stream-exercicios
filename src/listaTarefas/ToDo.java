@@ -1,4 +1,4 @@
-package toDo;
+package listaTarefas;
 
 import java.util.ArrayList;
 import java.util.List;

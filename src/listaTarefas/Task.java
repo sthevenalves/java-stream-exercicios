@@ -1,4 +1,4 @@
-package toDo;
+package listaTarefas;
 
 public class Task {
     private String name;
